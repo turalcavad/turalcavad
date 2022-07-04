@@ -14,7 +14,7 @@ I am an individual with a keen eye for details, seeking to advance my growing te
 # 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,ts,nodejs,mongodb,bootstrap,sass,cs&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,ts&theme=dark)](https://skillicons.dev) <br/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,bootstrap,sass,cs&theme=dark)](https://skillicons.dev)
 
 
