@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Tural!
 
 I am an individual with a keen eye for details, seeking to advance my growing tech career as a Frontend Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+
+
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" />
 
 
@@ -9,7 +12,10 @@ I am an individual with a keen eye for details, seeking to advance my growing te
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,ts,nodejs,mongodb,bootstrap,sass,cs&theme=dark)](https://skillicons.dev)
+
 
 
 # 📊 GitHub Stats:
