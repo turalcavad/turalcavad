@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Tural!
 
 I am an individual with a keen eye for details, seeking to advance my growing tech career as a Frontend Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40" height="40" />
+
 
 ## 🌐 Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tural-javadzada-0652ba241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/turalcavadn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/turalcavad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/turalcavadn)  
