@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Tural!
 
 I am an individual with a keen eye for details, seeking to advance my growing tech career as a Frontend Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40" height="40" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" />
 
 
 ## 🌐 Socials:
