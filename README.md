@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer at  <a href="https://bestcomp.net/az">Bestcomp Group</a> </h1>
+<h1>Software Engineer at  <a href="https://bestcomp.net/az">Bestcomp Group</a> </h1>
 
 
 
